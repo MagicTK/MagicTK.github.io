@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://github.com/MagicTK/magictk.github.io.git/sitemap.xml
+Sitemap: https://magictk.github.io/sitemap.xml
